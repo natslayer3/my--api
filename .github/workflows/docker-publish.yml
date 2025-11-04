@@ -19,7 +19,7 @@ permissions:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: ghcr.io/${{ github.repository }}/my-api
+  IMAGE_NAME: ghcr.io/natslayer3/my--api
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
